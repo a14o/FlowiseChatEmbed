@@ -26,7 +26,7 @@ import {
   DisclaimerPopUpTheme,
   DateTimeToggleTheme,
 } from '@/features/bubble/types';
-import { Badge } from './Badge';
+// import { Badge } from './Badge';
 import { Popup, DisclaimerPopup } from '@/features/popup';
 import { Avatar } from '@/components/avatars/Avatar';
 import { DeleteButton, SendButton } from '@/components/buttons/SendButton';
